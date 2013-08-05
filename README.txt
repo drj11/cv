@@ -12,17 +12,17 @@ quality.
 I was educated at the University of Cambridge, being awarded a BA in
 Mathematics and a Postgraduate Diploma in Computer Science;
 and at Aquinas College being awarded 5 A levels at grade A.  Details
-are in the online application.
+are available in a file I haven't made yet.
 
 ## Employment ##
 
 Software Engineering under a variety of job titles at
 ScraperWiki Limited, Ravenbrook Limited, Zoonami Limited,
 Autonomy, Harlequin Limited, over a period of slightly more than
-18 years.  Details are in the online application.
+18 years.  Details are in in a file I haven't made yet.
 
 In 2010 I founded the non-profit Climate Code Foundation and
-continue to be a director.
+continue to be a director (which is a "zero hours" obligation).
 
 ## Skills ##
 
@@ -52,11 +52,12 @@ epistemological basis of our understanding of surface
 temperature change over the last 130 years.
 
 Programming Languages.  Python, CoffeeScript, C, Lua,
-JavaScript, SQL, and many others too long to list.  Would
-previously have claimed world class expertise on ISO Standard C
-here, but no-one cares any more.
+JavaScript, SQL, and many others too long to list.  Back in the
+day (1994 to 2003) I maintained world class
+expertise on ISO Standard C and a deep section and sub-section
+nargery.
 
-All sort of strange software skills like being able to write
+All sort of software skills like being able to write
 garbage collectors, implement programming languages, program
 microcontrollers, calculate 3D collisions for rigid objects,
 trace rays through 3D manifolds, create interactive web-based
