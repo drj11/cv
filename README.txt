@@ -69,13 +69,17 @@ Rock Climbing (trad lead: VS, sport lead: grade 5), occasionally
 other sports: horse-riding (hacking out, good flatwork),
 badminton, squash, swimming, yoga.
 
-I maintain a potted kitchen herb garden, and in 2012 enjoyed
-successfully introducing chervil (Anthriscus cerefolium) to it,
-which is hard to obtain in UK shops.
+I maintain a potted kitchen herb garden, and in 2012 and 2013 I
+have enjoyed successfully introducing chervil (Anthriscus cerefolium)
+and sweet yarrow (Achillea ageratum) to it; both of which are
+slightly obscure edible herbs and hard to obtain in UK shops.
 
 I enjoy reading popular science, and occasionally pursue this
 further by self-teaching from more serious texts (most recently
 in genetics, molecular biology, bioinformatics, and plant physiology).
 Sean Carroll's "Endless Forms Most Beautiful" was one of my
 favourite reads of 2012 and provided an excellent overview of recent
-developments in evolutionary development.
+developments in evolutionary development.  Beerling's "Emerald
+Planet" is proving to be an outstanding read in 2013 and a nice
+counterpoint to Endless Forms Most Beautiful, being a sort of
+plant analogue.
