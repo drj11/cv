@@ -57,7 +57,7 @@ day (1994 to 2003) I maintained world class
 expertise on ISO Standard C and a deep section and sub-section
 nargery.
 
-All sort of software skills like being able to write
+All sorts of software skills like being able to write
 garbage collectors, implement programming languages, program
 microcontrollers, calculate 3D collisions for rigid objects,
 trace rays through 3D manifolds, create interactive web-based
