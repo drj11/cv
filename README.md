@@ -70,8 +70,8 @@ other sports: horse-riding (hacking out, good flatwork),
 badminton, squash, swimming, yoga.
 
 I maintain a potted kitchen herb garden, and in 2012 and 2013 I
-have enjoyed successfully introducing chervil (_Anthriscus cerefolium_)
-and sweet yarrow (_Achillea ageratum_) to it; both of which are
+have enjoyed successfully introducing chervil (*Anthriscus cerefolium*)
+and sweet yarrow (*Achillea ageratum*) to it; both of which are
 slightly obscure edible herbs and hard to obtain in UK shops.
 
 I enjoy reading popular science, and occasionally pursue this
