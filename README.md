@@ -16,46 +16,80 @@ are available in a file I haven't made yet.
 
 ## Employment ##
 
-Software Engineering under a variety of job titles at
+My job titles ranged around Software Engineering at
 ScraperWiki Limited, Ravenbrook Limited, Zoonami Limited,
 Autonomy, Harlequin Limited, over a period of slightly more than
 18 years.  Details are in in a file I haven't made yet.
 
-In 2010 I founded the non-profit Climate Code Foundation and
+In 2010, I founded the non-profit Climate Code Foundation and
 continue to be a director (which is a "zero hours" obligation).
 
 ## Skills ##
 
-Software Engineering.  Almost all aspects: Software Configuration
-Management, Requirements Analysis, Evolutionary Development,
-Incremental Delivery, Programming, Design, Software Correctness,
-Planning, Estimation, Testing, Reliability, Documentation, Bug Tracking,
-Pair Programming, Agile Devlopment.  I tend to avoid buzzwords like MCSE
-and PRINCE2 in favour of actually being competent and getting things
+### Software Engineering (almost all aspects) ###
+
+* Software Configuration
+* Management
+* Requirements Analysis
+* Evolutionary Development
+* Incremental Delivery
+* Programming
+* Design
+* Software Correctness
+* Planning
+* Estimation
+* Testing
+* Reliability
+* Documentation
+* Bug Tracking
+* Pair Programming
+* Agile Devlopment
+
+I tend to avoid buzzwords like MCSE
+and PRINCE2 in favour of genuine competence and getting things
 done correctly, on-time, and within-budget.
 
-Presentations. Slide Presentations (using InkScape or similar).
-Oral Presentations.  Posters.  Napkin business planning.
+### Presentations and Communications ###
 
-Technical Communication.  Written reports from 100 to 10,000
-words.  Works alone or in collaboration.
+* Slide Presentations (using InkScape or similar)
+* Oral Presentations
+* Posters
+* Napkin business planning.
+* Technical Communication
+* Written reports from 100 to 10,000 words.
+* Blogging
+* Tweeting  
 
-Training.  Developing and delivering training materials in
-classroom or workshop format, and helping others to do so.
-Mostly in the area of software development.
+I am comfortable working alone or in collaboration.
 
-Blogging.  Tweeting.
+### Training ###  
 
-Climate Science.  No formal training, but actively working on
-ccc-gistemp has given me a good insight into the
+I have experience developing and delivering training materials for
+classrooms or workshops, and train trainers – mostly in the area of software development.
+
+
+### Climate Science ###
+
+Though not formally trained, I actively contribute to
+ccc-gistemp, which has given me a good insight into the
 epistemological basis of our understanding of surface
 temperature change over the last 130 years.
 
-Programming Languages.  Python, CoffeeScript, C, Lua,
-JavaScript, SQL, and many others too long to list.  Back in the
-day (1994 to 2003) I maintained world class
+### Programming Languages ###  
+
+* Python
+* CoffeeScript
+* C
+* Lua
+* JavaScript
+* SQL
+* and many others too long to list.  
+
+Back in the day (1994 to 2003), I maintained world class
 expertise on ISO Standard C and a deep section and sub-section
 nargery.
+
+### Miscellaneous Software Skills ###
 
 All sorts of software skills like being able to write
 garbage collectors, implement programming languages, program
@@ -65,8 +99,8 @@ programming environments.
 
 ## Hobbies and Other Interests ##
 
-Rock Climbing (trad lead: VS, sport lead: grade 5), occasionally
-other sports: horse-riding (hacking out, good flatwork),
+Rock Climbing (trad lead: VS, sport lead: grade 5) is my main hobby, alongside
+occasionally other sports: horse-riding (hacking out, good flatwork),
 badminton, squash, swimming, yoga.
 
 I maintain a potted kitchen herb garden, and in 2012 and 2013 I
@@ -75,7 +109,7 @@ and sweet yarrow *Achillea ageratum* to it; both of which are
 slightly obscure edible herbs and hard to obtain in UK shops.
 
 I enjoy reading popular science, and occasionally pursue this
-further by self-teaching from more serious texts (most recently
+further through self-teaching from more serious texts (most recently
 in genetics, molecular biology, bioinformatics, and plant physiology).
 Sean Carroll's "Endless Forms Most Beautiful" was one of my
 favourite reads of 2012 and provided an excellent overview of recent
