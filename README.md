@@ -76,7 +76,8 @@ Carpentry; I have developed a small CoffeeScript tutorial.
 Though not formally trained, I actively contribute to
 ccc-gistemp, which has given me a good insight into the
 epistemological basis of our understanding of surface
-temperature change over the last 130 years.
+temperature change over the last 130 years ("it's gone up; and
+it's our fault").
 
 ### Programming Languages ###  
 
