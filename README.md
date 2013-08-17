@@ -73,8 +73,8 @@ Carpentry; I have developed a small CoffeeScript tutorial.
 
 ### Climate Science ###
 
-Though not formally trained, I actively contribute to
-ccc-gistemp, which has given me a good insight into the
+Though not formally trained, my work on
+ccc-gistemp has given me a good insight into the
 epistemological basis of our understanding of surface
 temperature change over the last 130 years ("it's gone up; and
 it's our fault").
