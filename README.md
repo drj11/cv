@@ -83,10 +83,11 @@ it's our fault").
 
 * Python
 * CoffeeScript
+* Shell (/bin/sh)
 * C
+* JavaScript (mostly Node.js runtime, but also browser)
 * Lua
-* JavaScript
-* SQL
+* are SQL and Regular Expressions programming languages?
 * and many others too long to list.  
 
 Back in the day (1994 to 2003), I maintained world class
