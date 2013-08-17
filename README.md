@@ -62,7 +62,7 @@ done correctly, on-time, and within-budget.
 
 I am comfortable working alone or in collaboration.
 
-### Training ###  
+### Training ###
 
 I have experience developing and delivering training materials for
 classrooms or workshops, and train trainers – mostly in the area of software development.
