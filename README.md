@@ -65,7 +65,10 @@ I am comfortable working alone or in collaboration.
 ### Training ###
 
 I have experience developing and delivering training materials for
-classrooms or workshops, and train trainers – mostly in the area of software development.
+classrooms or workshops, mostly in the area of software development.
+In particular I have helped deliver Python tutorials and held
+workshops at PyCon UK; I have taught shell and Make for Software
+Carpentry; I have developed a small CoffeeScript tutorial.
 
 
 ### Climate Science ###
