@@ -58,7 +58,7 @@ done correctly, on-time, and within-budget.
 * Technical Communication
 * Written reports from 100 to 10,000 words.
 * Blogging
-* Tweeting  
+* Tweeting
 
 I am comfortable working alone or in collaboration.
 
@@ -88,7 +88,7 @@ it's our fault").
 * JavaScript (mostly Node.js runtime, but also browser)
 * Lua
 * are SQL and Regular Expressions programming languages?
-* and many others too long to list.  
+* and many others too long to list.
 
 Back in the day (1994 to 2003), I maintained world class
 expertise on ISO Standard C and a deep section and sub-section
