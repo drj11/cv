@@ -97,7 +97,8 @@ nargery.
 
 All sorts of software skills like being able to write
 garbage collectors, implement programming languages, program
-microcontrollers, calculate 3D collisions for rigid objects,
+microcontrollers (AVR, MSP430, PIC18F), calculate 3D collisions
+for rigid objects,
 trace rays through 3D manifolds, create interactive web-based
 programming environments.
 
