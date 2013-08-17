@@ -79,7 +79,7 @@ epistemological basis of our understanding of surface
 temperature change over the last 130 years ("it's gone up; and
 it's our fault").
 
-### Programming Languages ###  
+### Programming Languages ###
 
 * Python
 * CoffeeScript
