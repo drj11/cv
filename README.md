@@ -116,9 +116,9 @@ Z80, SPARC, MIPS, Alpha, PowerPC.
 
 ## Hobbies and Other Interests ##
 
-Rock Climbing (trad lead: VS, sport lead: grade 5) is my main hobby, alongside
-occasionally other sports: horse-riding (hacking out, good flatwork),
-badminton, squash, swimming, yoga.
+Rock Climbing (trad lead: VS, sport lead: grade 5) is my main hobby,
+alongside occasionally other sports: horse-riding (hacking out, good
+flatwork), badminton, squash, swimming, yoga.
 
 I maintain a potted kitchen herb garden, and in 2012 and 2013 I
 have enjoyed successfully introducing chervil *Anthriscus cerefolium*
