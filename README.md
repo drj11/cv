@@ -104,12 +104,15 @@ I am skilful in a variety of editors (`/usr/bin/vi` and `/bin/ed`).
 
 ### Miscellaneous Software Skills ###
 
-All sorts of software skills like being able to write
-garbage collectors, implement programming languages, program
-microcontrollers (AVR, MSP430, PIC18F), calculate 3D collisions
-for rigid objects,
+All sorts of software skills like being able to write garbage
+collectors, implement programming languages, program microcontrollers
+(AVR, MSP430, PIC18F), calculate 3D collisions for rigid objects,
 trace rays through 3D manifolds, create interactive web-based
 programming environments.
+
+Some knowledge of assembler and machine code for the
+microcontrollers mentioned above, and also Motoral 68K, Zilog
+Z80, SPARC, MIPS, Alpha, PowerPC.
 
 ## Hobbies and Other Interests ##
 
