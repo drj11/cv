@@ -96,10 +96,11 @@ nargery.
 ### Software Tools ###
 
 More than 20 years experience using Unix tools (the usual suspects: sh,
-sed, awk, make, find, and so on). I'm becoming a reluctant advocate of
-git, whilst knowledge of perforce leaks slowly away. The others I have
-learnt, hg, svn, cvs, I will not regret forgetting. I am skilful
-in a variety of editors (/usr/bin/vi and /bin/ed).
+sed, awk, make, find, and so on). For version control (which
+absolutely nobody should program without) I'm becoming a reluctant
+advocate of git, whilst knowledge of perforce leaks slowly away. The
+other VCSs I have learnt, hg, svn, cvs, I will not regret forgetting.
+I am skilful in a variety of editors (`/usr/bin/vi` and `/bin/ed`).
 
 ### Miscellaneous Software Skills ###
 
