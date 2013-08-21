@@ -28,8 +28,7 @@ continue to be a director (which is a "zero hours" obligation).
 
 ### Software Engineering (almost all aspects) ###
 
-* Software Configuration
-* Management
+* Software Configuration Management
 * Requirements Analysis
 * Evolutionary Development
 * Incremental Delivery
