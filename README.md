@@ -111,7 +111,7 @@ trace rays through 3D manifolds, create interactive web-based
 programming environments.
 
 Some knowledge of assembler and machine code for the
-microcontrollers mentioned above, and also Motoral 68K, Zilog
+microcontrollers mentioned above, and also Motorola 68K, Zilog
 Z80, SPARC, MIPS, Alpha, PowerPC.
 
 ## Hobbies and Other Interests ##
