@@ -19,7 +19,7 @@ are in the qualification.md file.
 My job titles ranged around Software Engineering at
 ScraperWiki Limited, Ravenbrook Limited, Zoonami Limited,
 Autonomy, Harlequin Limited, over a period of slightly more than
-18 years.  Details are in in a file I haven't made yet.
+18 years.  Details are in a file I haven't made yet.
 
 In 2010, I founded the non-profit Climate Code Foundation and
 continue to be a director (which is a "zero hours" obligation).
