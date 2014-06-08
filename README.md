@@ -120,10 +120,10 @@ Rock Climbing (trad lead: VS, sport lead: grade 5) is my main hobby,
 alongside occasionally other sports: horse-riding (hacking out, good
 flatwork), badminton, squash, swimming, yoga.
 
-I maintain a potted kitchen herb garden, and in 2012 and 2013 I
-have enjoyed successfully introducing chervil *Anthriscus cerefolium*
-and sweet yarrow *Achillea ageratum* to it; both of which are
-slightly obscure edible herbs and hard to obtain in UK shops.
+I enjoy our garden and in 2014 I am pleased to have introduced two yew
+trees, *Taxus baccata*, to our curtilage. The kitchen potager
+grows, with *Sanguisorba minor* and *Achillea millefolium* being
+recent additions.
 
 I enjoy reading popular science, and occasionally pursue this
 further through self-teaching from more serious texts (most recently
