@@ -12,7 +12,7 @@ quality.
 I was educated at the University of Cambridge, being awarded a BA in
 Mathematics and a Postgraduate Diploma in Computer Science;
 and at Aquinas College being awarded 5 A levels at grade A.  Details
-are in the qualification.md file.
+are in the [qualification.md](qualification.md) file.
 
 ## Employment ##
 
