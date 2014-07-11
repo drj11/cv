@@ -21,7 +21,7 @@ ScraperWiki Limited, Ravenbrook Limited, Zoonami Limited,
 Autonomy, Harlequin Limited, over a period of slightly more than
 18 years.  Details are in [employment.md](employment.md) file.
 
-In 2010, I founded the non-profit Climate Code Foundation and
+In 2010, I founded the non-profit [Climate Code Foundation](http://climatecode.org) and
 continue to be a director (which is a "zero hours" obligation).
 
 ## Skills ##
