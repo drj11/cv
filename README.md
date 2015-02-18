@@ -42,7 +42,7 @@ continue to be a director (which is a "zero hours" obligation).
 * Documentation
 * Bug Tracking
 * Pair Programming
-* Agile Devlopment
+* Agile Development
 
 I tend to avoid buzzwords like MCSE
 and PRINCE2 in favour of genuine competence and getting things
