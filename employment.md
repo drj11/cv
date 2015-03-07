@@ -24,7 +24,7 @@ saltstack.
 I frequently interact with our customer facing team to assess
 the feasibility of building / buying various solutions, and in
 helping building a more accurate picture of customer need. I
-occasionally interact with customers direct (both concierge and
+occasionally interact with customers directly (both concierge and
 self-service) either in a support capacity or to again build a
 more accurate picture of need.
 
@@ -93,7 +93,7 @@ C programmer in the (very small) Memory Management Group.
 The Memory Management Group wrote a framework, in C, that
 provided flexible and adaptable runtime memory management
 services. It was used as the garbage collector for Harlequin's
-Dylan commpiler and language runtime, and as the manual memory
+Dylan compiler and language runtime, and as the manual memory
 allocator for Harlequin's Postscript language compatible RIP (a
 product for printing Postscript to high-end printers). I was
 responsible for almost all of the implementation and
