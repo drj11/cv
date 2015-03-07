@@ -49,7 +49,7 @@ of Code programme. In this programme we have mentored 5 students in
 2 separate years (I mentored 1 of those, and co-mentored them all
 to some extent).  In 2013 we created the Science Code Manifesto,
 sciencecodemanifesto.org, which has received over 1000 endorsements.
-We continue to collaborate with out scientific network, but as
+We continue to collaborate with our scientific network, but as
 yet, unfunded.
 
 ### Consultant, Ravenbrook Limited, 2003-02 to 2011-11
