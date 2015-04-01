@@ -104,9 +104,9 @@ nargery.
 
 More than 20 years experience using Unix tools (the usual suspects:
 `sh`, `sed`, `awk`, `make`, `find`, and so on). Nobody should program
-with version control. I currently use, and reluctantly advocate, `git`.
-Knowledge of `perforce` leaks slowly away, but I will not regret
-forgetting the other VCSs I have learnt: `hg`, `svn`, `cvs`.
+without version control. I currently use, and reluctantly advocate,
+`git`.  Knowledge of `perforce` leaks slowly away, but I will not
+regret forgetting the other VCSs I have learnt: `hg`, `svn`, `cvs`.
 I am skilful in a variety of editors (`/usr/bin/vi` and `/bin/ed`).
 
 ### Miscellaneous Software Skills ###
