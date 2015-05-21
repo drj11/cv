@@ -12,6 +12,6 @@ College.
 1990 A Levels: Maths, Further Maths, Physics, Chemistry, General
 Studies. All at Grade A.
 
-1998 GCSEs: Maths, History, Physics, Chemistry, Biology: Grade A.
+1988 GCSEs: Maths, History, Physics, Chemistry, Biology: Grade A.
 English: Grade B. Craft Design & Technology, and German
 Language: Grade C.
